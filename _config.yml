@@ -1,0 +1,14 @@
+title: White Hat Desert Rally 2023
+email: security [@] whitehatdesert[.]com
+description: >- # this means to ignore newlines until "baseurl:"
+  White Hat Desert Rally 2023
+  Doha
+  Qatar
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://whitehatdesert.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+encoding: UTF-8
+
+theme: minima
+plugins:
+  - jekyll-feed
+
