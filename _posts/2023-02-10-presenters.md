@@ -4,4 +4,7 @@ title:  "Talks.txt"
 tags: About
 ---
 
-# TBC
+| Title      | Speaker |
+| ----------- | ----------- |
+| Practitioner Guide to ICS IR      | [Yuri Kramarz](https://qa.linkedin.com/in/jerzykra) |
+| TBD   | TBD        |
