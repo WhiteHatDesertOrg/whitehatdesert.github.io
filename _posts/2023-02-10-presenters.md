@@ -12,3 +12,4 @@ tags: About
 * Running an Effective Penetration Testing Programme - [Ashraf Aboukass](https://www.linkedin.com/in/aboukass)
 * Dissecting Malicious Selenium PyPi packages - [Kamran Saifullah](https://pk.linkedin.com/in/kamransaifullah)
 * Tools, what tools! - [Alexandru Stamate](https://ch.linkedin.com/in/alexandrustamate)
+* How to get the best out of your MSSP - [Abdulla Al-Emadi](https://www.linkedin.com/in/abdulla-al-emadi-448934138)
