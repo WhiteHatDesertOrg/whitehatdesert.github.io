@@ -1,0 +1,75 @@
+---
+layout: default
+title: Privacy
+nav_order: 6
+---
+
+White Hat Desert Privacy Policy
+===============================
+
+### 1\. Introduction & General Terms
+
+WHD (White Hat Desert) is committed to protecting your (and your team's) personal information when you are using White Hat Desert services or participating in events. We want our services and events to be safe and enjoyable environments for our participants and users. This Privacy Policy relates to our use of any personal information you provide to us via our websites, phone, text, email, online or in letters, or any other correspondence.  
+In order to provide you with the full range of White Hat Desert services, we sometimes need to collect information about you, and where you are sponsoring an event or participating in an event we will need to collect significant personal data to facilitate your involvement.  
+This Privacy Policy explains the following:
+
+*   What information White Hat Desert may collect about you
+*   How White Hat Desert will use information we collect about you
+*   When White Hat Desert may use your details to contact you
+*   Whether White Hat Desert will disclose your details to anyone else
+*   Your choices regarding the personal information you provide to us
+
+White Hat Desert is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 2018 and EU General Data Protection Regulation (these laws are referred to collectively in this Privacy Policy as the "data protection laws").
+
+### 2\. What information will White Hat Desert collect about me?
+
+When you participate in, access or sign up to any of White Hat Desert’s services, events, activities or online content (such as newsletters, competitions, live chats, message boards, votes), or register for an White Hat Desert event we may receive personal information about you.  
+This can consist of information such as your name, email address, telephone and mobile number, and depending on the activity, picture of yourself.  
+By submitting your details, you enable White Hat Desert to provide you with the services, events, activities or online content you select.
+
+### 3\. How will White Hat Desert use the information it collects about me?
+
+White Hat Desert will use your personal information for a number of purposes including the following:
+
+*   To provide our services, events, activities or online content and to deal with your requests and enquiries
+*   For "service administration purposes", which means that White Hat Desert may contact you for reasons related to the service, event, activity or online content you have signed up for, as set out in section 5 below (e.g. to provide you with password reminders or to notify you that a particular service, event, activity or online content has been suspended, updated or cancelled, or to provide details of such)
+*   To contact you about a submission you have made, including any content you provide
+*   To provide you with information about our services, events, activities or online content
+*   To personalise the way White Hat Desert content is presented to you
+*   To use IP addresses to identify the location of users, to block disruptive use, to establish the number of visits and to determine where you are accessing the services from
+*   To analyse and improve the services offered on White Hat Desert websites
+*   To provide White Hat Desert event pictures on our websites
+
+### 4\. When will White Hat Desert contact me?
+
+White Hat Desert may contact you:
+
+*   In relation to any service, event, activity or online content you have signed up to
+*   In relation to any correspondence we receive from you or any comment or complaint
+*   In relation to any contribution you have submitted to or about White Hat Desert and our services, events and activities, including online blog posts, tweets or other media
+*   To invite you to participate in surveys about White Hat Desert services
+
+### 5\. Will White Hat Desert share my personal information with anyone else?
+
+We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in section 6 below.  
+We will only use your information within White Hat Desert.  
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”) and the United Kingdom. By submitting your personal data, you agree to this transfer and storage. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### 6\. Offensive or inappropriate content on White Hat Desert websites or events
+
+If you post or send offensive, inappropriate or objectionable content anywhere on or to White Hat Desert websites or communication channels, or otherwise engage in any disruptive behaviour on any White Hat Desert service, White Hat Desert may use your personal information to stop such behaviour.  
+
+Where White Hat Desert reasonably believes that you are or may be in breach of any applicable laws (e.g. because content you have posted may be defamatory), White Hat Desert may use your personal information to inform relevant third parties such as law enforcement agencies about the content and your behaviour.
+
+### 7\. What if I am a user aged 18 or under?
+
+If you are aged 18 or under, please get your parent/guardian's permission before you provide any personal information to White Hat Desert. Users without this consent are not allowed to provide us with personal information.
+
+### 9\. How long will White Hat Desert keep my personal information?
+
+We will hold your personal information on our systems for as long as is necessary for the relevant service, event or activity, or as long as is set out in any relevant contract you agreed with White Hat Desert, or according to White Hat Desert's retention schedule. If you cancel your registration your account is deleted and a flag goes against any remaining personal information which stays on the system for up to a period of one year for administration purposes before being deleted.  
+
+If you register for a service, event or activity we will retain your details until all obligations under the contract have been discharged and for a minimum of four months following that date for administration purposes before being deleted during a period of up to one year.  
+
+Where you contribute material to White Hat Desert we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. For example, we will only keep copies of entries to an event for the duration of the event. However other information (e.g. posts to blogs or other websites) are likely to have a longer, or even permanent, duration.
